@@ -1,0 +1,10 @@
+com\example\studentapi\student\Student.class
+com\example\studentapi\student\StudentController.class
+com\example\studentapi\student\DuplicateStudentEmailException.class
+com\example\studentapi\student\StudentRequest.class
+com\example\studentapi\StudentApiApplication.class
+com\example\studentapi\common\ApiExceptionHandler.class
+com\example\studentapi\student\StudentResponse.class
+com\example\studentapi\student\StudentRepository.class
+com\example\studentapi\student\StudentService.class
+com\example\studentapi\student\StudentNotFoundException.class
